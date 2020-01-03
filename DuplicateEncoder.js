@@ -18,3 +18,5 @@ function duplicateEncode(str) {
   }
   return returnStr;
 }
+
+console.log(duplicateEncode("(( @"));
